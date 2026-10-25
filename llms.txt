@@ -1,0 +1,20 @@
+# PhotoGlobal: GCC Seller Studio
+
+> On-device iOS product photography compliance inspector, background studio, and bilingual (Arabic + English) Vision OCR listing builder for GCC & global e-commerce sellers on Noon, Amazon.ae, Amazon.sa, Salla (سلة), Zid (زد), Haraj (حراج), Dubizzle, Shopify, Instagram Shop, TikTok Shop, and WhatsApp Business.
+
+## Core Capabilities
+- **Real Pixel & Alpha-Bounding-Box Compliance Inspector**: Verifies pure white `RGB(255,255,255)` borders, exact subject frame-fill percentage (`70%–95%` interactive scale slider against Noon/Amazon's `>=85%` rule), aspect ratio (`1:1`, `4:5`, `9:16`, `4:3`), and minimum resolution (`>=2000x2000px`).
+- **10 GCC & Global Marketplace Presets**: Noon (`2000x2000`), Amazon.ae (`2000x2000`), Salla سلة (`1500x1500`), Zid زد (`1600x1600`), Haraj حراج (`1600x1200`), Dubizzle (`1600x1200`), Shopify (`2048x2048`), Instagram Shop (`1080x1350`), TikTok Shop (`1080x1920`), and WhatsApp Catalog (`1024x1024`).
+- **On-Device Apple Vision OCR Label Scanner (`VNRecognizeTextRequest`)**: Scans English and Arabic product packaging labels directly on iPhone to extract brand, product name, weight/volume (`100 ml`, `250 g`), and key features, generating marketplace-tailored bilingual Arabic + English titles, bullet points, and SEO keywords.
+- **100% On-Device Privacy**: No account required; product photos are processed locally using Apple Vision and CoreImage.
+
+## Pricing & Plans
+- **Free Tier**: 3 full-resolution, watermark-free exports per day.
+- **Pro Yearly (`com.photoglobal.app.pro.yearly`)**: $24.99/year (AED 99.99/year) with a 3-day free trial and 24-hour reminder notification.
+- **Pro Monthly (`com.photoglobal.app.pro.monthly`)**: $4.99/month (AED 19.99/month), no free trial, cancel anytime.
+- **Starter Pack 30 (`com.photoglobal.app.starter30`)**: $2.99 (AED 9.99) one-time consumable for 30 HD studio exports (never expires).
+
+## Official Links
+- Support & Overview: https://shuhratjon1010.github.io/photoglobal-site/
+- Privacy Policy: https://shuhratjon1010.github.io/photoglobal-site/privacy/
+- Terms of Use: https://shuhratjon1010.github.io/photoglobal-site/terms/
